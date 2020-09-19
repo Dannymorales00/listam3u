@@ -5,7 +5,7 @@ http:?
 http://slrp.sambavideos.sambatech.com/liveevent/repretelcanal11_d3adab9cf37b5e4ed6f823e031229710/livestream3/chunklist.m3u8
 
 #EXTINF:-1, 6 Repretel
-http://k3.usastreams.com:1935/canal6/canal6/playlist.m3u8
+https://k3.usastreams.com:1935/canal6/canal6/playlist.m3u8
 
 
 #EXTINF:-1, ExtraTv 42
