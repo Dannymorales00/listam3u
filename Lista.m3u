@@ -21,7 +21,7 @@ http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
 http://randomserver.site:2086/riyad/riyad/92358?checkedby:hlscat.com
 
 #EXTINF:-1, 6 Repretel
-https://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?checkedby:hlscat.com
+http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_b1098304_sles.m3u8
 
 #EXTINF:-1, Teletica 7
 http://admin-mainpanel.club:8080/marcos/marcos/27054?checkedby:hlscat.com
